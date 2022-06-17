@@ -1,6 +1,3 @@
 # Name-Entity-Recognition which can detect food names from text. 
 
-
- file:///home/pyarena/Pictures/Screenshots/Screenshot%20from%202022-06-17%2010-40-12.png
- 
- file:///home/pyarena/Pictures/Screenshots/Screenshot%20from%202022-06-17%2010-40-12.png
+![Screenshot from 2022-06-17 10-40-12](https://user-images.githubusercontent.com/64675035/174226480-1f8da8a9-e885-483e-aec8-8cf93b398cf2.png)
